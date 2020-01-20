@@ -1,0 +1,4 @@
+5. The internet connects people and the web connects information, specifically hypertext documents via the internet.
+6. Put simply, the internet is a wire that connects servers and clients via ISPs to each other allowing you to access information on the internet or to connect with another server or clients.
+7. Although this may not be the correct terminology, it seems as though directories at as a web (as in a spiders web) that connects files to each other, but in a more direct line. Directories and files are interconnected and you essentially cannot have one without the other. 
+8. Using a VCS will be benificial because it allows you to look at what progress you have made and if there were any mistakes. It promotes a "trial and error" way of working. If I want to implement something to my website I can try it and if it doesn't work I can simply return it to the way it was previously.
