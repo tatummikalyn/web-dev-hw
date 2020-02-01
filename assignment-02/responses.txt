@@ -1,0 +1,5 @@
+My Responses:
+1. Data can travels through the internet via bits. There are a few different ways bits can travel. One way is by light via fiber optic cable.
+2. All devices on the internet addresses called an IP address. Domain name system (DNS) allows your computer to look up domain names to get the associated IP.
+3. Cookies act as an ID card that stores data to a website in order to remember you are.
+4. The parts of a URL are: Protocol, Domain, and Path.
