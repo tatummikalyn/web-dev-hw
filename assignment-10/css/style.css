@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=IM+Fell+French+Canon+SC&family=Reenie+Beanie&family=Sedgwick+Ave+Display&display=swap');
+/* Page-Wide */
+
+body {
+background-color: rgb(176,196,222);
+color: DarkSlateGray;
+padding: 5px;
+font-family: 'Homemade Apple', cursive;
+}
+
+/* Paragragh Content*/
+.text {
+  background-color: #F0fff0;
+  color: DarkSlateGray;
+  padding: 2px;
+
+  line-height: 2em;
+}
+p:first-letter {
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 2em;
+  font-weight: 100;
+  color: rgb(25, 25, 112)
+}
+
+
+/* "Read More!" Link */
+a{
+  background-color: rgb(25, 25, 112);
+  color: #F0fff0;
+  padding: 5px;
+  font-family: 'IM Fell French Canon SC', serif;
+}
+a:hover {
+  font-style: italic;
+}
+a:visited {
+  color: #F0fff0;
+}
+a:active {
+  background-color: #F0fff0;
+  color: rgb(25, 25, 112);
+}
